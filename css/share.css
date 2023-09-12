@@ -1,0 +1,139 @@
+.social-media {
+    width: 119px;
+
+}
+
+.social-media img:not(:last-child) {
+    margin-right: 20px;
+}
+
+.pading-20 {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.pading-40{
+    padding-right: 36.9%;
+}
+.pink-text {
+    color: #ee3364;
+}
+
+.background-black {
+    background-color: #232323;
+}
+
+.noxia {
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    text-align: left;
+    color: #0A0909;
+    line-height: 55px;
+}
+
+.picture-gray {
+    width: 770px;
+    height: 475px;
+    margin-bottom: 30px;
+}
+
+.text {
+    
+    font-family: 'Mulish', sans-serif;
+    font-size: 17px;
+    line-height: 30px;
+    text-align: left;
+    color: #666666;
+}
+
+.mb-34 {
+    margin-bottom: 34px;
+}
+
+.blog {
+    font-family: "GlacialIndifference-Bold";
+    font-size: 24px;
+    line-height: 40px;
+    text-align: left;
+    color: #2f2933;
+    margin-bottom: 25px;
+}
+
+.all-news {
+    width: 130px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    font-family: "GlacialIndifference-Bold";
+    font-size: 12px;
+    line-height: 36px;
+    text-align: center;
+    color: #ffffff;
+}
+.button{
+    width: 230px;
+height: 50px;
+border:none;
+background: #ee3364;
+font-family: "GlacialIndifference-Bold";
+font-size: 14px;
+line-height: 55px;
+text-align: center;
+letter-spacing: 2px;
+color: #ffffff;
+cursor: pointer;
+}
+.right-child-border {
+    width: 360px;
+    border-color: #f1f1f1;
+    border-width: 1px;
+    border-style: solid;
+    filter: drop-shadow(-7.347880586115415e-16px 12px 4px rgba(0, 0, 0, 0.04));
+    background: #ffffff;
+    margin-bottom: 49px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 42px;
+}
+
+.right-header {
+    font-family: "GlacialIndifference-Bold";
+    font-size: 24px;
+    line-height: 33.99113464355469px;
+    text-align: left;
+    
+    padding-bottom: 23px;
+    border-bottom: 1px solid #f1f1f1;
+    margin-bottom: 37px;
+}
+
+.oct{
+    font-family: "Muli-Bold";
+    font-size: 14px;
+    margin-bottom: 10px;
+    color: #bbc7cd;
+}
+.e252525{
+   color: #252525; 
+}
+.EE3364 {
+    background-color: #EE3364;
+}
+.text-16 {
+    font-family: "Muli-Regular";
+    font-size: 16px;
+    line-height: 26px;
+    color: #636363;
+    margin-bottom: 17px;
+}
+.botom-border{
+    border-bottom: 1px solid #ececec;
+   
+}
+.border{
+border-color: #ececec;
+border-width: 1px;
+border-style: solid;
+border-radius: 2px;
+
+padding-bottom: 21px;
+}

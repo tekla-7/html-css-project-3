@@ -1,0 +1,486 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.page-1 {
+    height: 49px;
+}
+
+.contact {
+    width: 393px;
+}
+
+.social-media {
+    width: 140px;
+}
+
+.meil img {
+    margin-right: 19px;
+    width: 18px;
+    height: 14px;
+}
+
+.page-2 {
+    margin-bottom: 115px;
+}
+
+.meniu {
+    margin-bottom: 25px;
+}
+
+
+.meniu-list div:hover {
+    color: #ee3364;
+}
+
+.mr-123 {
+    margin-right: 123px;
+}
+
+.search img {
+    width: 18px;
+    height: 21px;
+
+}
+
+.search :first-child {
+    margin-right: 20px;
+
+}
+
+.blog-single {
+    height: 542px;
+}
+
+.blog-single-child {
+    width: 375px;
+    text-align: center;
+}
+
+.button-1 {
+    border: none;
+    color: #8799a3;
+    cursor: pointer;
+}
+
+.info :not(:last-child) {
+    margin-right: 20px;
+}
+
+.info :last-child {
+    color: #ffffff;
+}
+
+.e9e9e {
+    background: #9e9e9e;
+}
+
+.posting-time>:first-child {
+    margin-right: 20px;
+}
+
+.heart {
+    width: 18px;
+    height: 16px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.chat-02 {
+    width: 69px;
+    height: 38px;
+    background-color: #ee3364;
+    padding-left: 15px;
+    padding-top: 10px;
+    margin-bottom: -33px;
+    margin-left: 87%;
+}
+
+.mr-41 {
+    margin-right: 41px;
+}
+
+.chat-02 img {
+    width: 20px;
+    height: 18px;
+}
+
+.chat-02 img:not(:last-child) {
+    margin-right: 5px;
+}
+.fusce-list-chaild {
+    list-style: square;
+    line-height: 40px;
+    margin-left: 25px;
+}
+
+.pink-button {
+    width: 220px;
+    height: 50px;
+    background: #ee3364;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+    padding-bottom: 10px;
+}
+
+.pink-button img {
+    width: 16px;
+    height: 14px;
+    margin-top: 10px;
+    margin-left: 7px;
+}
+
+.blue-box {
+    width: 300px;
+    height: 250px;
+    background-color: #3456c2;
+    background: linear-gradient(12deg,
+            #3456c2 0.00%,
+            #0ba5c1 100.00%);
+    margin-top: -30%;
+    margin-left: 470px;
+}
+
+.left-child-2 {
+    margin-bottom: 53px;
+}
+
+.c4c4c {
+
+    background: #4c4c4c;
+}
+
+.fb-tw img {
+    width: 21px;
+    height: 17px;
+
+}
+.fb-tw div :not(:last-child) {
+    margin-right: 11px;
+    margin-left: 20%;
+}
+
+.f5ebe {
+    background-color: #2f5ebe;
+}
+
+.d8ff {
+    background-color: #00d8ff;
+}
+
+.a4d54 {
+    background-color: #4a4d54;
+}
+
+.cb2027 {
+    background-color: #cb2027;
+}
+.right-child-1 :not(:first-child, :last-child) {
+    border-bottom: 1px solid #f1f1f1;
+    margin-bottom: 13px;
+}
+
+.right-child-1 :last-child {
+    padding-bottom: 30px;
+}
+
+.right-child-2 {
+    padding-bottom: 35px;
+}
+
+.post img {
+    width: 97px;
+    height: 80px;
+    margin-bottom: 30px;
+    margin-right: 21px;
+}
+.post-function:hover {
+    color: #bbc7cd;
+}
+.elips-text div {
+    height: 35px;
+    border-color: #f0f4f7;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 17.5px;
+    background: rgba(240, 244, 247, 0);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 10px 19px 10px 19px;
+}
+
+.elips-text div:hover {
+    color: #ffffff;
+    background-color: #ee3364;
+}
+
+
+.right-child-4 {
+    padding-bottom: 45px;
+}
+
+.right-child-4 img {
+    width: 16px;
+    height: 15px;
+    margin-right: 18px;
+    margin-top: 15%;
+}
+.right-child-5 {
+    padding-bottom: 42px;
+}
+
+.shadow img {
+    width: 77px;
+    height: 78px;
+    margin-left: -6%;
+    margin-bottom: 15px;
+    filter: drop-shadow(8px 8px 10px gray);
+
+}
+
+.h-16 img {
+    height: 16px;
+    width: 16px;
+}
+
+.mr {
+    margin-top: 50px;
+    margin-left: 2%;
+}
+
+
+.web-des img {
+    width: 21px;
+    height: 17px;
+    margin-right: 30px;
+    margin-left: 5px;
+}
+.under-line {
+    margin-top: 20px;
+    margin-bottom: 36px;
+    height: 5px;
+    background-color: #ececec;
+}
+
+
+.circle-gray {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: #ececec;
+    margin-right: 30px;
+    margin-bottom: 40px;
+}
+
+.page-5 {
+    margin-top: 33px;
+}
+
+.frame {
+    width: 100px;
+    height: 80px;
+    background: #cfdbdf;
+    margin-right: 20px;
+}
+
+.description {
+    width: 240px;
+}
+
+
+.slaid {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.width-200 {
+    width: 200px;
+}
+
+.mb-16 {
+    margin-bottom: 16px;
+}
+
+.mr-40 {
+    margin-right: 40px;
+}
+
+
+.blue-picture {
+    height: 120px;
+    background: #3456c2;
+    background: linear-gradient(2deg,
+            #3456c2 0.00%,
+            #0ba5c1 100.00%);
+    margin-bottom: 68px;
+}
+
+
+.w-100 {
+    width: 100%;
+}
+
+
+
+.mb-35 {
+    margin-bottom: 35px;
+}
+
+.page-6 {
+    margin-bottom: 180px;
+}
+
+.your-imegine {
+    width: 79px;
+    height: 79px;
+    border-radius: 2.630000114440918px;
+    background-color: #d2d2d2;
+    margin-top: 27px;
+    margin-left: 32px;
+}
+
+.w-619 {
+    width: 618.3px;
+}
+
+.w-550 {
+    width: 550px;
+}
+
+
+
+.wilson {
+    margin-top: 35px;
+}
+
+.w-626 {
+    width: 580px;
+}
+
+.m-r-10 span {
+    margin-right: 10px;
+}
+
+.l-s-20px div {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #cccccc;
+    margin-right: 5px;
+    margin-top: 18px;
+
+}
+
+.ccccc div {
+    background-color: #3456c2;
+    ;
+}
+
+
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.b-c {
+    background-color: rgba(105, 210, 231, 0.06);
+}
+
+.mr-25px {
+    margin-right: 25px;
+}
+
+.ml-87 {
+    margin-left: 87px;
+}
+
+.h-50 {
+    height: 50px;
+}
+
+.h-213 {
+    height: 213px;
+}
+
+.w-395 {
+    width: 382px;
+}
+
+.mr-10 {
+    margin-right: 10px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.form-control {
+    height: 24px;
+    width: 24px;
+    background-color: rgba(26, 38, 64, 0.06);
+
+}
+.page-7 {
+    margin-bottom: 86px;
+}
+
+.w-280 {
+    width: 280px;
+}
+
+.w-305 {
+    width: 305px;
+}
+
+.w-260 {
+    width: 260px;
+}
+
+.a202020 {
+    background-color: #202020;
+    padding-top: 67px;
+}
+
+.ffffff {
+    color: #ffffff;
+}
+
+.mb-23 {
+    margin-bottom: 23px;
+}
+
+.mb-38 {
+    margin-bottom: 38px;
+}
+
+.gallery {
+    margin-right: 15px;
+}
+.blue-circle {
+    width: 37px;
+    height: 37px;
+    background: #1eb7ea;
+    border-radius: 50%;
+}
+.pb-39{
+    padding-bottom: 39px;
+}
+.video img{
+    margin-top: 14px;
+height: 14px;
+margin-left: 10px;
+}
+.color-161616{
+    background-color: #161616;
+}
+.h-75px{
+    height: 75px;
+}
